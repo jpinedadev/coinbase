@@ -22,7 +22,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Proyecto
 
-![enter image description here](https://github.com/othneildrew/Best-README-Template/raw/master/images/screenshot.png)
+![enter image description here](https://raw.githubusercontent.com/jpinedadev/coinbase/main/preview.png)
 
 
 Estudiando en open-bootcamp se nos planteó este necesidad de crear un proyecto que pueda simular el landing page de Coinbase, por lo que aplicando lo aprendido durante el curso de html y css así como la ayuda complementaria de otras tecnologías como bootstrap y sass, pude realizar el presente proyecto con gran satisfacción por lograr alcanzar el objetivo y resolver el ejercicio planteado.
@@ -100,7 +100,8 @@ Estas son las instrucciones para poder instalar y configurar el proyecto en tu o
 <!-- USAGE EXAMPLES -->
 ## Uso
 
-Screenshots adicionales.
+![enter image description here](https://raw.githubusercontent.com/jpinedadev/coinbase/main/preview2.png)
+
 
 
 <!-- ROADMAP -->
@@ -149,5 +150,4 @@ Linkedin - [@jpinedadev](https://www.linkedin.com/in/jpinedadev/) -
 Twitter - [@jpinedadev](https://twitter.com/Jpinedadev) - 
 
 Link del proyecto: [https://github.com/jpinedadev/coinbase](https://github.com/jpinedadev/coinbase)
-
 
